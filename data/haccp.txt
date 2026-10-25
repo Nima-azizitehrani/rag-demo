@@ -1,0 +1,25 @@
+The Hazard Analysis and Critical Control Point System (HACCP) is a systematic preventive approach to food safety from biological, chemical, and physical hazards in production processes that can cause the finished product to be unsafe, and designs measures to reduce these risks to a safe level. In this manner, HACCP attempts to avoid hazards rather than attempting to inspect finished products for the effects of those hazards. The HACCP system can be used at all stages of a food chain, from food production and preparation processes including packaging, distribution, etc.
+
+The Food and Drug Administration (FDA) and the United States Department of Agriculture (USDA) require mandatory HACCP programs for juice and meat as an effective approach to food safety and protecting public health. Meat HACCP systems are regulated by the USDA, while seafood and juice are regulated by the FDA.
+
+HACCP itself was conceived in the 1960s when the US National Aeronautics and Space Administration (NASA) asked Pillsbury to design and manufacture the first foods for space flights. To ensure that the food sent to space was safe, strict microbial requirements were imposed, including pathogen limits for E. coli, Salmonella, and Clostridium botulinum. Using the traditional end product testing method, it was soon realized that almost all of the food manufactured was being used for testing and very little was left for actual use. Therefore, a new approach was needed. NASA's own requirements for critical control points (CCP) in engineering management were used as a guide, derived from failure mode and effects analysis (FMEA). By 1997, the seven HACCP principles listed below became the standard.
+
+The 7 principles of HACCP:
+
+1. Conduct a hazard analysis. Plan to determine the food safety hazards and identify the preventive measures that can be applied to control these hazards. A food safety hazard is any biological, chemical, or physical property that may cause a food to be unsafe for human consumption.
+
+2. Identify critical control points. A critical control point (CCP) is a point, step, or procedure in a food manufacturing process at which control can be applied and, as a result, a food safety hazard can be prevented, eliminated, or reduced to an acceptable level.
+
+3. Establish critical limits for each critical control point. A critical limit is the maximum or minimum value to which a physical, biological, or chemical hazard must be controlled at a critical control point to prevent, eliminate, or reduce that hazard to an acceptable level.
+
+4. Establish critical control point monitoring requirements. Monitoring activities are necessary to ensure that the process is under control at each critical control point. In the United States, the FSIS requires that each monitoring procedure and its frequency be listed in the HACCP plan.
+
+5. Establish corrective actions. These are actions to be taken when monitoring indicates a deviation from an established critical limit. Corrective actions are intended to ensure that no product is injurious to health or otherwise adulterated as a result of the deviation.
+
+6. Establish procedures for ensuring the HACCP system is working as intended. Validation ensures that the plans do what they were designed to do; that is, they are successful in ensuring the production of a safe product. Verification ensures the HACCP plan is adequate, that is, working as intended. Verification procedures may include such activities as review of HACCP plans, CCP records, critical limits and microbial sampling and analysis.
+
+7. Establish record keeping procedures. The HACCP regulation requires that all plants maintain certain documents, including its hazard analysis and written HACCP plan, and records documenting the monitoring of critical control points, critical limits, verification activities, and the handling of processing deviations.
+
+The seven HACCP principles are included in the international standard ISO 22000. This standard is a complete food safety and quality management system incorporating the elements of prerequisite programmes (GMP and SSOP), HACCP and the quality management system, which together form an organization's Total Quality Management system. Other schemes with recognition from the Global Food Safety Initiative (GFSI), such as the Safe Quality Food Institute's SQF Code, also rely upon the HACCP methodology as the basis for developing and maintaining food safety and food quality plans and programs.
+
+HACCP has expanded in all realms of the food industry, going into meat, poultry, seafood, dairy, and has spread now from the farm to the fork. It is applied to fish and fishery products, fresh-cut produce, juice and nectar products, food outlets, meat and poultry products, and school food services.

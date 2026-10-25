@@ -1,0 +1,9 @@
+# Core pipeline (local embeddings + vector search; no API key needed)
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0.post1
+numpy>=1.26,<3
+
+# Optional: only needed if you set ANTHROPIC_API_KEY or OPENAI_API_KEY
+# for ask.py. The demo runs in retrieval mode without them.
+# anthropic>=0.39
+# openai>=1.50
